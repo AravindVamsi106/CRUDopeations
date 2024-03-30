@@ -7,18 +7,19 @@ This is a simple registration system implemented in Python using SQLite for data
 To run this code on your local machine, follow these steps:
 
 1. **Clone the Repository:**
+   https://github.com/AravindVamsi106/CRUDopeations.git
 
-2. **Navigate to the Directory:**
+3. **Navigate to the Directory:**
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
 Ensure you have Python installed on your system. No external dependencies are required.
 
-4. **Run the Code:**
+5. **Run the Code:**
 
-5. **Follow On-screen Instructions:**
+6. **Follow On-screen Instructions:**
 Once the code is running, follow the on-screen instructions to interact with the registration system.
 
-6. **Exit the Program:**
+7. **Exit the Program:**
 To exit the program, choose the "Exit" option from the menu.
 
 ## Contributing
